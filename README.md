@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pit4xd;
 - 👀 I’m interested in programming since I was 13/14yo;
-- 🌱 I’m currently learning HTML/CSS, but I already studied Python;
+- 🌱 I’m currently learning JavaScript and PHP, but I already studied Python and HTML/CSS;
 - 😄 Pronouns: He/Him;
 
 <!---
